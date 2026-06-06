@@ -54,6 +54,8 @@ public class Maze
         return Data[y * Width + x] == 2;
     }
 
+    
+
 
     /// <summary>
     /// Helper function to determine if the (x,y) position is a valid
